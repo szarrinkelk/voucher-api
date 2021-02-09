@@ -1,0 +1,23 @@
+{
+  "name": "voucher-api",
+  "version": "1.0.0",
+  "description": "Voucher Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szarrinkelk/voucher-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szarrinkelk/voucher-api/issues"
+  },
+  "homepage": "https://github.com/szarrinkelk/voucher-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
