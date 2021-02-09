@@ -1,0 +1,35 @@
+{
+   "recipes":[
+      {
+         "id":0,
+         "name":"Dill Pistou",
+         "web": "www.bartine.co",
+         "ingredients":[
+            "Dill",
+            "Pistache",
+            "Lemon juice",
+            "Salt and pepper",
+            "Shallot"
+         ],
+         "instructions":"blits it all together with (stick)blender"
+      },
+      {
+         "id":1,
+         "name":"Sohla Popcorn",
+         "web": "https://www.reddit.com/r/bon_appetit/comments/gl485d/does_anyone_have_sohlas_instagram_popcorn_method/",
+         "ingredients":[
+            "127 gr nutritional yeast",
+            "3 Tbs salt",
+            "1/2 tsp MSG",
+            "1 tsp black pepper",
+            "2 Tbs dried dill",
+            "1 Tbs onion powder",
+            "1 Tbs garlic powder",
+            "1 Tbs sugar",
+            "1/4 C ghee + 1/4 C oil",
+            "1/4 C popcorn"
+         ],
+         "instructions":"Oil/Fat:Canola or other neutral oil with high smoke point like sunflower combined with ghee. (1 part popcorn:2 parts fat)"
+      }
+   ]
+}
